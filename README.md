@@ -1,1 +1,1 @@
-A simple script I wrote that checks Star Train availability and sends an email when new tickets are available. I WANNA GO
+Checks Nevada Star Train (https://nnry.com/pages/StarTrain.php) availability and sends an email when a slot becomes available.
